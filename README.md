@@ -1,2 +1,2 @@
-# pytest_coverage
-EUPS package of the PyPI pytest-coverage package
+# pytest_cov
+EUPS package of the PyPI pytest-cov package
